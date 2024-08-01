@@ -2,7 +2,7 @@
   "name": "ts-notes",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/index.ts",
+  "main": "./index.ts",
   "scripts": {
     "start-dev": "webpack-dev-server --open",
     "build": "webpack",
