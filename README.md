@@ -1,4 +1,4 @@
-# TYPECRIPT
+# TYPESCRIPT
 
 ## 1. Introduction
 
