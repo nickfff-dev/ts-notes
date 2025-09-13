@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-One of the most common errors that developers encounter is a    TypeError where a value of a certain type was used where a different value was expected.
+One of the most common errors that developers encounter is a TypeError where a value of a certain type was used where a different value was expected.
 This can be due to typo, lack of knowledge of the API, incorrect assumptions about runtime behaviours etc.
 Typescript offers all javascript features plus an additional layer which is the Typescript Type System.
 Javascript by default does no do type checks. Typescript can highlight unexpected behaviour in javascript code,
